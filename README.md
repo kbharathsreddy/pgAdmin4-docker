@@ -8,6 +8,8 @@ This image uses an unprivileged user, and uses port `5050` instead of `80`.
 To access the web-interface on port `80` instead of `5050`, you can map the
 port using `-p 80:5050`.
 
+Using: pgAdmin 4 v4.8
+
 ## How to use? 
 
 ### Quick start
@@ -86,4 +88,4 @@ More information on pgAdmin 4 development can be found here;
 
 ## Credits 
 
-This is a clone of the original repository made by [thaJeztah](https://github.com/thaJeztah). I made this clone because the original repository hasn't been update in a while. 
+This is a clone of the original repository made by [thaJeztah](https://github.com/thaJeztah). I made this clone because the original repository hasn't been updated in a while. 
