@@ -17,7 +17,7 @@ Using: pgAdmin 4 v4.8
 To see this image in action, run the following command;
 
 ```bash
-$ docker run --rm -p 5050:5050 thajeztah/pgadmin4
+$ docker run --rm -p 5050:5050 kbharathsreddy/pgadmin4
 ```
 
 This starts a one-off container in non-detached mode, and container logs are
